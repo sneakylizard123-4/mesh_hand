@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IP5306")(type "KiCad")(uri "${KIPRJMOD}/importedParts/IP5306")(options "")(descr ""))
+  (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/importedParts/E22-900M30S")(options "")(descr ""))
+)
