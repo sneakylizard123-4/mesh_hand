@@ -6,6 +6,7 @@ Blender Render
 
 Schematic & PCB View
 ![Schematic](images/Schematic.png)
+![Schematic1](images/Schematic1.png)
 ![PCB](images/PCB.png)
 
 
