@@ -2,7 +2,7 @@ Handheld Meshtastic Node
 GPS on board
 
 Blender Render
-![Purple](blender/Purple.png}
+![Purple](blender/Purple.png)
 
 Schematic & PCB View
 ![Schematic](images/Schematic.png)
