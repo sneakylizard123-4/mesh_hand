@@ -9701,7 +9701,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "USER_LED"
 			(at 53.34 57.4674 90)
 			(effects
 				(font
@@ -12940,7 +12940,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "BLUE"
 			(at 200.66 89.2174 90)
 			(effects
 				(font
