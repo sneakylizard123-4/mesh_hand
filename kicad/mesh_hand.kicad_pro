@@ -634,6 +634,14 @@
     [
       "12377b0d-e9b8-4c19-ba0f-6a224f9c2b56",
       "LiPo Indicator"
+    ],
+    [
+      "53c4f8bc-ea8c-4380-829c-a49f6bb220e3",
+      "Radio"
+    ],
+    [
+      "a773a50f-7543-4615-aff4-1417339cc537",
+      "Sensor"
     ]
   ],
   "text_variables": {}

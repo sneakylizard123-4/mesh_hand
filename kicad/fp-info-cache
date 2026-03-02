@@ -1,4 +1,4 @@
-28157782661228664
+28163092957972421
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63503,6 +63503,20 @@ SOP127P600X165-9N
 0
 9
 9
+Icons
+Gauge_5mm_Type4_SilkScreenTop_Special
+
+
+0
+0
+0
+Icons
+Gauge_10mm_Type4_SilkScreenTop_Special
+Gauge, Massstab, 10mm, SilkScreenTop, Type 4,
+Gauge Massstab 10mm SilkScreenTop Type 4
+0
+0
+0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -111523,3 +111537,10 @@ Varistor VF
 0
 2
 2
+customImages
+linuxpenguin
+
+
+0
+0
+0
