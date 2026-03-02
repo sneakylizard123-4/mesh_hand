@@ -500,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/sneak/Downloads/cool_mesh_hand_pics/Fit/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -630,6 +630,10 @@
     [
       "bcc7feef-c474-42d2-a7aa-c9e8a833bca8",
       "Power"
+    ],
+    [
+      "12377b0d-e9b8-4c19-ba0f-6a224f9c2b56",
+      "LiPo Indicator"
     ]
   ],
   "text_variables": {}
