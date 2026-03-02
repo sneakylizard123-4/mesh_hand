@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -64,8 +64,6 @@
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -91,13 +89,9 @@
       8,
       9,
       10,
-      11,
-      12,
-      13
+      11
     ],
     "col_widths": [
-      0,
-      0,
       0,
       0,
       0,
