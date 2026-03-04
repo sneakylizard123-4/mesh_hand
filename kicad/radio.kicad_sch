@@ -3286,7 +3286,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 68.58) (xy 105.41 68.58)
+			(xy 109.22 68.58) (xy 110.49 68.58)
 		)
 		(stroke
 			(width 0)
@@ -3526,7 +3526,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 68.58) (xy 99.06 68.58)
+			(xy 95.25 68.58) (xy 104.14 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4602,7 +4602,7 @@
 	)
 	(global_label "GPS_GND"
 		(shape input)
-		(at 105.41 68.58 0)
+		(at 110.49 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4612,7 +4612,7 @@
 		)
 		(uuid "ef206007-c0bb-4bf5-85ab-7df516a635b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.9828 68.58 0)
+			(at 122.0628 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4712,7 +4712,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 101.6 68.58 0)
+		(at 106.68 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4721,15 +4721,15 @@
 		(fields_autoplaced yes)
 		(uuid "0199d4e0-6b02-49ca-bd56-046e64dfb5c3")
 		(property "Reference" "J7"
-			(at 101.0804 62.23 0)
+			(at 106.1604 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "GPS"
-			(at 101.0804 64.77 0)
+		(property "Value" "Conn_Coaxial"
+			(at 106.1604 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +4737,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal"
-			(at 101.6 68.58 0)
+			(at 106.68 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +4746,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 68.58 0)
+			(at 106.68 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4755,7 +4755,7 @@
 			)
 		)
 		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 101.6 68.58 0)
+			(at 106.68 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,7 +4788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0875eb67-2322-4bd9-8eb8-5b2b093b4695")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR068"
 			(at 259.08 69.85 0)
 			(effects
 				(font
@@ -4838,7 +4838,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR070")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4854,7 +4854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0882afae-512a-4cb6-8a07-685f8894fbb7")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR067"
 			(at 243.84 57.15 0)
 			(effects
 				(font
@@ -4904,7 +4904,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR069")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -4919,7 +4919,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b4041a6-bb70-4e5a-a2a5-217084275e94")
-		(property "Reference" "R52"
+		(property "Reference" "R47"
 			(at 62.992 101.6 0)
 			(effects
 				(font
@@ -4973,7 +4973,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "R52")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -5059,7 +5059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14f07352-2a3a-4193-bf9b-29287112ab7e")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR063"
 			(at 91.44 161.29 0)
 			(effects
 				(font
@@ -5109,7 +5109,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR065")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -5124,7 +5124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d414c13-6848-468b-8a8a-3e1c60d65869")
-		(property "Reference" "R54"
+		(property "Reference" "R49"
 			(at 102.87 87.6299 0)
 			(effects
 				(font
@@ -5178,7 +5178,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "R54")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -5264,7 +5264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bae62c2-0200-4b8a-b6cd-fca5a93196e5")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR060"
 			(at 68.58 31.75 0)
 			(effects
 				(font
@@ -5314,7 +5314,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR062")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -5395,7 +5395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "320a54a9-ee34-4c52-84d8-9541b879e287")
-		(property "Reference" "D10"
+		(property "Reference" "D11"
 			(at 93.98 134.9374 90)
 			(effects
 				(font
@@ -5449,7 +5449,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "D10")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -5465,7 +5465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a3cc853-ae55-444c-aa6c-0465a7c67cf8")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR065"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -5515,7 +5515,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR067")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -5939,7 +5939,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89a87c29-888f-403b-a29d-b4a031b404dc")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR066"
 			(at 238.76 86.36 0)
 			(effects
 				(font
@@ -5989,7 +5989,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR068")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -6005,7 +6005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9831dd7b-ab30-4411-a739-ad00b0a8e72a")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR064"
 			(at 96.52 99.06 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR066")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -6136,7 +6136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f1fc1fd-1dc3-4485-8b72-5c6224cf0b94")
-		(property "Reference" "R53"
+		(property "Reference" "R48"
 			(at 93.98 142.2399 0)
 			(effects
 				(font
@@ -6190,7 +6190,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "R53")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -6206,7 +6206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2a56a3c-fc92-486a-9429-414ce6d651cd")
-		(property "Reference" "D11"
+		(property "Reference" "D12"
 			(at 100.33 81.5974 90)
 			(effects
 				(font
@@ -6269,7 +6269,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "D11")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -6285,7 +6285,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a66b9b8c-bd54-41a5-b4bf-2c1b70865321")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR061"
 			(at 77.47 114.3 0)
 			(effects
 				(font
@@ -6335,7 +6335,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR063")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -6351,7 +6351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7e90dce-aa11-4b7f-8170-d53ee874e9fa")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR062"
 			(at 91.44 134.62 0)
 			(effects
 				(font
@@ -6401,7 +6401,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR064")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
