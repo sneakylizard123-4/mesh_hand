@@ -4788,7 +4788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0875eb67-2322-4bd9-8eb8-5b2b093b4695")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 259.08 69.85 0)
 			(effects
 				(font
@@ -4838,7 +4838,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -4854,7 +4854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0882afae-512a-4cb6-8a07-685f8894fbb7")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 243.84 57.15 0)
 			(effects
 				(font
@@ -4904,7 +4904,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4989,7 +4989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11db2166-ccac-4ed7-8d59-37e91e16c419")
-		(property "Reference" "C22"
+		(property "Reference" "C23"
 			(at 46.99 34.2899 0)
 			(effects
 				(font
@@ -5043,7 +5043,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C22")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -5059,7 +5059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14f07352-2a3a-4193-bf9b-29287112ab7e")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 91.44 161.29 0)
 			(effects
 				(font
@@ -5109,7 +5109,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -5264,7 +5264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bae62c2-0200-4b8a-b6cd-fca5a93196e5")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 68.58 31.75 0)
 			(effects
 				(font
@@ -5314,7 +5314,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -5465,7 +5465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a3cc853-ae55-444c-aa6c-0465a7c67cf8")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -5515,7 +5515,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -5804,7 +5804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "703f852d-49a0-4f5b-9705-f9149f3242dd")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 247.65 43.1799 0)
 			(effects
 				(font
@@ -5858,7 +5858,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -5939,7 +5939,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89a87c29-888f-403b-a29d-b4a031b404dc")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 238.76 86.36 0)
 			(effects
 				(font
@@ -5989,7 +5989,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -6005,7 +6005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9831dd7b-ab30-4411-a739-ad00b0a8e72a")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 96.52 99.06 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -6285,7 +6285,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a66b9b8c-bd54-41a5-b4bf-2c1b70865321")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 77.47 114.3 0)
 			(effects
 				(font
@@ -6335,7 +6335,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -6351,7 +6351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7e90dce-aa11-4b7f-8170-d53ee874e9fa")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 91.44 134.62 0)
 			(effects
 				(font
@@ -6401,7 +6401,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -6417,7 +6417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aabd14ba-e0e6-4671-9978-b2aeb93ac7e2")
-		(property "Reference" "C23"
+		(property "Reference" "C24"
 			(at 59.69 34.2899 0)
 			(effects
 				(font
@@ -6471,7 +6471,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -6817,7 +6817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce341ba2-6b08-4c1d-87e6-73b9a06e1306")
-		(property "Reference" "C27"
+		(property "Reference" "C28"
 			(at 273.05 43.1799 0)
 			(effects
 				(font
@@ -6871,7 +6871,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C27")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -7136,7 +7136,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dda826a6-43c2-4f22-aea4-fdb89f79df64")
-		(property "Reference" "C24"
+		(property "Reference" "C25"
 			(at 88.9 149.8662 0)
 			(effects
 				(font
@@ -7190,7 +7190,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C24")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -7342,7 +7342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed7523a2-6f6d-41b2-b1cc-dc46ed86775c")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 260.35 43.1799 0)
 			(effects
 				(font
@@ -7396,7 +7396,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -7412,7 +7412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4f81c1c-fd7e-4a74-b8f9-4199818597f9")
-		(property "Reference" "C21"
+		(property "Reference" "C22"
 			(at 33.02 34.2899 0)
 			(effects
 				(font
@@ -7466,7 +7466,7 @@
 		(instances
 			(project "mesh_hand"
 				(path "/4286f538-ef81-4c89-8b13-075edb6e32bd/53c4f8bc-ea8c-4380-829c-a49f6bb220e3"
-					(reference "C21")
+					(reference "C22")
 					(unit 1)
 				)
 			)
