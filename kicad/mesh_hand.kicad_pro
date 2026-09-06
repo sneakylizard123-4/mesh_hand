@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -442,11 +458,14 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "global_label_dangling": "warning",
+      "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
+      "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -469,6 +488,7 @@
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
       "single_global_label": "ignore",
+      "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
@@ -530,6 +550,10 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "annotation": {
+      "method": 0,
+      "sort_order": 0
+    },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -609,6 +633,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
+      "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -632,6 +657,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "reuse_designators": true,
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -645,30 +671,36 @@
       {
         "filename": "mesh_hand.kicad_sch",
         "name": "mesh_hand",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "4286f538-ef81-4c89-8b13-075edb6e32bd"
       }
-    ]
+    ],
+    "used_designators": "BT1,SW1,L1-2,J1-3,D1-6,C1-17,TP1-4,JP1-3,R1-18,FB1,#PWR1-26,Q1-5,U1-9",
+    "variants": []
   },
   "sheets": [
     [
       "4286f538-ef81-4c89-8b13-075edb6e32bd",
-      "Root"
+      "mesh_hand"
     ],
     [
-      "bcc7feef-c474-42d2-a7aa-c9e8a833bca8",
+      "e0fb726a-5b85-4ff8-bff5-4b7419eb6374",
       "Power"
     ],
     [
-      "12377b0d-e9b8-4c19-ba0f-6a224f9c2b56",
-      "LiPo Indicator"
+      "8a28de1c-d905-4755-88d1-e77551685f98",
+      "GPS"
     ],
     [
-      "53c4f8bc-ea8c-4380-829c-a49f6bb220e3",
+      "adaa3e0d-8566-484a-bbf5-0f04f009736b",
       "Radio"
     ],
     [
-      "a773a50f-7543-4615-aff4-1417339cc537",
-      "Sensor"
+      "e8144e6a-d722-4d94-9286-36104092bc4b",
+      "ESP32"
+    ],
+    [
+      "bf11fe6c-fb6e-42d6-9acd-33f495cd770f",
+      "RTC"
     ]
   ],
   "text_variables": {},

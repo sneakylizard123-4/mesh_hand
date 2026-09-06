@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IP5306")(type "KiCad")(uri "${KIPRJMOD}/importedParts/IP5306/IP5306.kicad_sym")(options "")(descr ""))
+  (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/importedParts/E22-900M30S/E22-900M30S.kicad_sym")(options "")(descr ""))
+)
