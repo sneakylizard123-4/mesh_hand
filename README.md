@@ -9,22 +9,19 @@ I wanted to make a second revision of my previous handheld meshtastic board.
 I also thought it would be a great project to have on my portfolio.
 
 ## How to Use
-1. Clone the repository
-2. Download ~/kicad/production/mesh_hand.zip and use it to get PCBs
-3. Assemble the PCB
-4. Flash the firmware from meshtastic
+1. Plug 3.7v Lithium battery into JST-PH port
+2. Connect to USB-C
+3. Flash Meshtastic or other firmware
+4. Connect to board via WiFi, Bluetooth, or USB1
 5. Use the device as a meshtastic node
 
 ## Pictures
 not done yet but add full 3d model screenshots and PCB renderings here and wiring diagram
 
 ## BOM
-not done yet but a bom table here with links to the components and their prices
+Full BOM in BOM.csv
 
-
-need to add step file
-Handheld Meshtastic Node
-GPS on board
+## Images
 
 Blender Render
 ![Purple](blender/Purple.png)

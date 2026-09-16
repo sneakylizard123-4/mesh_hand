@@ -40,7 +40,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: what motivated the sheet split - too sprawling on one sheet? getting serious about the layout?)
+- One sheet was too cluttered
 
 ## Screenshots
 
@@ -62,7 +62,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: why the extra caps, why the 3D models now - render quality / enclosure fit check?)
+- Extra caps to prevent voltage issues on high power transmit
 
 ## Screenshots
 
@@ -82,7 +82,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in)
+- had nothing better to do8
 
 ## Screenshots
 
@@ -102,7 +102,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: why an RTC - timestamping packets, keeping time in sleep/low power?)
+- RTC Just because it might become useful if we dont have gps
 
 ## Screenshots
 
@@ -121,7 +121,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: what sensor needs 1.8V - measuring the thing, or the MCU IO? what does the 1.8V feed?)
+- Pulse Oximiter needs 1.8v to power the core
 
 ## Screenshots
 
@@ -141,7 +141,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: why a CO2 sensor on a portable radio? what do you plan to do with the vitals?)
+- CO2 Sensor so it can become a weather station
 
 ## Screenshots
 
@@ -160,7 +160,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- (fill in: comparing fab options - JLC local, PCBWay US for tariffs/lead time?)
+- JLCPCB cheaper, but PCBWAY sponsorships?  
 
 ## Screenshots
 
@@ -181,7 +181,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- Required `.step` for the submission and useful for an enclosure fit check.
+- Need cad for hack club submission
 
 ## Screenshots
 
@@ -201,7 +201,7 @@ created_at: 2026-02-28
 
 ## Why
 
-- README and submission need clean, legible images, not random screenshots.
+- Images required for hack club submission
 
 ## Screenshots
 
@@ -223,12 +223,42 @@ created_at: 2026-02-28
 
 ## Why
 
-- need 
+- need second revision to fix issues
 
 ## Screenshots
 
-![Root](images/V2/01-root.png)
-![Power](images/V2/06-power.png)
-![ESP32](images/V2/07-esp32.png)
+![Root](images/V2/schematics/01-root.png)
+![Power](images/V2/schematics/06-power.png)
+![ESP32](images/V2/schematics/07-esp32.png)
 
 **Total time spent: 4 hours**
+
+# 2026-09-08: Schematic Cleanup
+
+## What I did
+
+- Removed unnecessary sensors and 1.8v rail.
+- rewired peripherals to match heltec v4 pinout.
+- upgraded power stage
+
+## Why
+
+- V1 3.3v rail is too complex, could be simpler so switched to LDO (TLV75733)
+- sensors took too much space
+- radios were unstable because power traces were too thin
+
+## Screenshots
+
+![Root](images/V2/schematics/01-root.png)
+![GPS](images/V2/schematics/02-gps.png)
+![Radio](images/V2/schematics/03-radio.png)
+![RTC](images/V2/schematics/04-rtc.png)
+![OLED](images/V2/schematics/05-oled.png)
+
+**Total time spent: 5 hours**
+
+# 2026-09-10: Power stage fixes
+
+## What I did
+
+- Fixed IP5306 power stage
