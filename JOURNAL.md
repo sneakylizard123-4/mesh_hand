@@ -262,3 +262,11 @@ created_at: 2026-02-28
 ## What I did
 
 - Fixed IP5306 power stage
+
+## Why
+
+- IP5306 could use its full 2.4A potential on V1, also the inductors werent rated correctly
+
+## Screenshots
+
+![render](images/V2/pcb/editor.png)
