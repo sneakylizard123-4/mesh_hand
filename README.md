@@ -1,5 +1,7 @@
 # Mesh-Hand
 
+![image](images/V2/renders/top.png)
+
 ## Description
 A Handheld Meshtastic Node with GPS on board. The device is designed to be compact and portable, making it ideal for outdoor activities such as hiking, camping, and other adventures.
 
@@ -53,22 +55,35 @@ Full BOM in kicad/production/bom.csv
 
 ## Images
 
-Blender Render
-![Purple](blender/Purple.png)
+PCB Render (top)
+![Top](images/V2/renders/top.png)
 
-Schematic & PCB View
-![Schematic](images/Schematic.png)
-![Schematic1](images/Schematic1.png)
-![Schematic2](images/Schematic2.png)
-![PCB](images/PCB.png)
+PCB Render (bottom)
+![Bottom](images/V2/renders/bottom.png)
 
+PCB Render (isometric)
+![Iso](images/V2/renders/iso.png)
+![Iso high](images/V2/renders/iso-high.png)
 
-Cart
-![Cart1](images/2026-02-28-181232_hyprshot.png)
-![Cart2](images/2026-02-28-181307_hyprshot.png)
-![Cart3](images/2026-02-28-181325_hyprshot.png)
-![Cart4](images/2026-02-28-181344_hyprshot.png)
-![Cart5](images/2026-02-28-181910_hyprshot.png)
-![Cart6](images/2026-02-28-181924_hyprshot.png)
+Schematic
+![Root](images/V2/schematics/01-root.png)
+![GPS](images/V2/schematics/02-gps.png)
+![Radio](images/V2/schematics/03-radio.png)
+![RTC](images/V2/schematics/04-rtc.png)
+![OLED](images/V2/schematics/05-oled.png)
+![Power](images/V2/schematics/06-power.png)
+![ESP32](images/V2/schematics/07-esp32.png)
 
-+
+Editor
+![Editor](images/V2/pcb/editor.png)
+
+Blender Render (V1)
+![Purple](blender/V1/Purple.png)
+
+Cart (V1)
+![Cart1](images/V1/2026-02-28-181232_hyprshot.png)
+![Cart2](images/V1/2026-02-28-181307_hyprshot.png)
+![Cart3](images/V1/2026-02-28-181325_hyprshot.png)
+![Cart4](images/V1/2026-02-28-181344_hyprshot.png)
+![Cart5](images/V1/2026-02-28-181910_hyprshot.png)
+![Cart6](images/V1/2026-02-28-181924_hyprshot.png)
