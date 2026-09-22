@@ -270,3 +270,5 @@ created_at: 2026-02-28
 ## Screenshots
 
 ![render](images/V2/pcb/editor.png)
+
+**Total time spent: 2 hours**
