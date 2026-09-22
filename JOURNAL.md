@@ -5,7 +5,7 @@ description: Handheld Meshtastic node with on-board GPS, sensors, and a companio
 created_at: 2026-02-28
 ---
 
-# 2026-02-28: V1 Kickoff
+# Feb 28: V1 Kickoff
 
 ## What I did
 
@@ -29,7 +29,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-01: V1 Schematic Restructure
+# March 1: V1 Schematic Restructure
 
 ## What I did
 
@@ -51,7 +51,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-02: V1 PCB Work
+# March 2: V1 PCB Work
 
 ## What I did
 
@@ -73,7 +73,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-03: V1 Schematics Update
+# March 3: V1 Schematics Update
 
 ## What I did
 
@@ -92,7 +92,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-05: V1 Board - RTC + Finalized
+# March 5: V1 Board - RTC + Finalized
 
 ## What I did
 
@@ -112,7 +112,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-06: V1 Sensors and 1.8V Rail
+# March 6: V1 Sensors and 1.8V Rail
 
 ## What I did
 
@@ -131,7 +131,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-07: V1 More Sensors + 3D Models
+# March 7: V1 More Sensors + 3D Models
 
 ## What I did
 
@@ -151,7 +151,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-26: V1 Fab Variants
+# March 26: V1 Fab Variants
 
 ## What I did
 
@@ -171,7 +171,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-27: V1 CAD - STEP Export Fight
+# March 27: V1 CAD - STEP Export Fight
 
 ## What I did
 
@@ -192,7 +192,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-03-30: V1 Cleanup
+# March 30: V1 Cleanup
 
 ## What I did
 
@@ -213,7 +213,7 @@ created_at: 2026-02-28
 
 ---
 
-# 2026-09-06: V2 Start
+# September 6: V2 Start
 
 ## What I did
 
@@ -233,7 +233,7 @@ created_at: 2026-02-28
 
 **Total time spent: 4 hours**
 
-# 2026-09-08: Schematic Cleanup
+# September 8: Schematic Cleanup
 
 ## What I did
 
@@ -257,7 +257,7 @@ created_at: 2026-02-28
 
 **Total time spent: 5 hours**
 
-# 2026-09-10: Power stage fixes
+# September 10: Power stage fixes
 
 ## What I did
 
