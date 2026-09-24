@@ -25,7 +25,7 @@ created_at: 2026-02-28
 ![PCB](images/V1/old/PCB-old.png)
 ![Cart](images/V1/2026-02-28-181232_hyprshot.png)
 
-**Total time spent: 5 hours**
+**Total time spent: 3 hours**
 
 ---
 
@@ -47,7 +47,7 @@ created_at: 2026-02-28
 ![Schematic](images/V1/old/2026-03-01-152927_hyprshot.png)
 ![Schematic](images/V1/old/2026-03-01-201042_hyprshot.png)
 
-**Total time spent: 5 hours**
+**Total time spent: 3 hours**
 
 ---
 
@@ -69,7 +69,7 @@ created_at: 2026-02-28
 ![PCB](images/V1/old/2026-03-02-111907_hyprshot.png)
 ![Layout](images/V1/old/2026-03-02-121155_hyprshot.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 3 hours**
 
 ---
 
@@ -108,7 +108,7 @@ created_at: 2026-02-28
 
 ![Schematic](images/V1/old/Schematic2.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 3 hours**
 
 ---
 
@@ -127,7 +127,7 @@ created_at: 2026-02-28
 
 ![Schematic](images/V1/old/Schematic.png)
 
-**Total time spent: 3 hours**
+**Total time spent: 1 hour**
 
 ---
 
@@ -147,7 +147,7 @@ created_at: 2026-02-28
 
 ![Render](blender/V1/Untitled.png)
 
-**Total time spent: 5 hours**
+**Total time spent: 2 hours**
 
 ---
 
@@ -167,7 +167,7 @@ created_at: 2026-02-28
 ![Cart](images/V1/2026-02-28-181307_hyprshot.png)
 ![Cart](images/V1/2026-02-28-181344_hyprshot.png)
 
-**Total time spent: 3 hours**
+**Total time spent: 1 hour**
 
 ---
 
@@ -188,7 +188,7 @@ created_at: 2026-02-28
 ![PCB](images/V1/old/2026-03-01-153906_hyprshot.png)
 ![PCB](images/V1/old/2026-03-01-201056_hyprshot.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 1 hour**
 
 ---
 
@@ -209,7 +209,7 @@ created_at: 2026-02-28
 ![Schematic 5](images/V1/Sch5.png)
 ![PCB](images/V1/PCB.png)
 
-**Total time spent: 3 hours**
+**Total time spent: 2 hours**
 
 ---
 
@@ -231,7 +231,7 @@ created_at: 2026-02-28
 ![Power](images/V2/schematics/06-power.png)
 ![ESP32](images/V2/schematics/07-esp32.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 2 hours**
 
 # September 8: Schematic Cleanup
 
@@ -255,7 +255,7 @@ created_at: 2026-02-28
 ![RTC](images/V2/schematics/04-rtc.png)
 ![OLED](images/V2/schematics/05-oled.png)
 
-**Total time spent: 5 hours**
+**Total time spent: 4 hours**
 
 # September 10: Power stage fixes
 
