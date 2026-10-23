@@ -272,3 +272,71 @@ created_at: 2026-02-28
 ![render](images/V2/pcb/editor.png)
 
 **Total time spent: 2 hours**
+
+---
+
+# October 13: V2 PCBs Arrived
+
+## What I did
+
+- The V2 PCBs arrived and I checked them over.
+
+## Why
+
+- Needed the boards to build the second revision.
+
+## Screenshots
+
+![PCB arrived](proof/V2/image/pcb_arrived.jpg)
+
+**Total time spent: 1 hour**
+
+---
+
+# October 19: V2 Assembly
+
+## What I did
+
+- Applied solder paste with a stencil and placed the parts.
+- Reflowed the board on the hotplate.
+- Soldered the through-hole and connector parts.
+- Powered it up and ran a blink test.
+
+## Why
+
+- Assemble the V2 board and check that it comes alive.
+
+## Screenshots
+
+![Paste](proof/V2/image/pcb_pasting.jpg)
+![Hotplate](proof/V2/image/pcb_hotplate.jpg)
+![Front](proof/V2/image/radio_front.jpg)
+![Back](proof/V2/image/radio_back.jpg)
+
+[Blink test](proof/V2/video/compressed/blink.mp4)
+
+**Total time spent: 2 hours**
+
+---
+
+# October 20: V2 Mesh Test
+
+## What I did
+
+- Powered the board and confirmed it was working.
+- Flashed Meshtastic and joined the mesh.
+- Sent a test message on LongFast and got replies from other nodes.
+- The node list showed 6 nodes online.
+
+## Why
+
+- Confirm the radio and firmware work end to end.
+
+## Screenshots
+
+![Board working](proof/V2/image/radio_working.jpg)
+![Nodes](proof/V2/image/screenshot_nodes.png)
+![Message sent](proof/V2/image/screenshot_sendmessage.png)
+![Message received](proof/V2/image/screenshot_receivemessage.png)
+
+**Total time spent: 1 hour**

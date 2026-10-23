@@ -1,6 +1,7 @@
 # Mesh-Hand
 
 ![image](images/V2/renders/top.png)
+![built](proof/V2/image/radio_working.jpg)
 
 ## Description
 A Handheld Meshtastic Node with GPS on board. The device is designed to be compact and portable, making it ideal for outdoor activities such as hiking, camping, and other adventures.
@@ -87,3 +88,19 @@ Cart (V1)
 ![Cart4](images/V1/2026-02-28-181344_hyprshot.png)
 ![Cart5](images/V1/2026-02-28-181910_hyprshot.png)
 ![Cart6](images/V1/2026-02-28-181924_hyprshot.png)
+
+## Build & Testing
+
+V2 assembly and test notes: [proof/V2/PROOF.md](proof/V2/PROOF.md)
+
+![V2 board](proof/V2/image/radio_working.jpg)
+
+LED blink test: [video](proof/V2/video/compressed/blink.mp4)
+
+The board joined the mesh on October 20, sent a message, and received replies:
+
+<img src="proof/V2/image/screenshot_nodes.png" width="250" alt="Nodes online">
+<img src="proof/V2/image/screenshot_sendmessage.png" width="250" alt="Message delivered">
+<img src="proof/V2/image/screenshot_receivemessage.png" width="250" alt="Replies">
+
+More build photos in `proof/V2/image/`, camera originals in `proof/V2/video/`.
