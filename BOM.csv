@@ -1,0 +1,32 @@
+Ref,Value,Footprint,Qty,Manufacturer,MPN,LCSC Part,LCSC Link,Unit Price (USD),Extended Price (USD),Notes
+"C1,C2,C5,C6,C7,C8,C12,C14,C18,C21,C23",10uF,Capacitor_SMD:C_0805_2012Metric,11,Samsung Electro-Mechanics,CL21A106KAYNNNE,C15850,https://www.lcsc.com/product-detail/C15850.html,0.0437,0.4807,25V X5R
+"C3,C4,C9,C10,C17,C20,C22,C24,C25",0.1uF,Capacitor_SMD:C_0805_2012Metric,9,YAGEO,CC0805KRX7R9BB104,C49678,https://www.lcsc.com/product-detail/C49678.html,0.0206,0.1854,100nF 50V X7R
+"C11,C13,C15,C19",22uF,Capacitor_SMD:C_0805_2012Metric,4,Samsung Electro-Mechanics,CL21A226MAQNNNE,C45783,https://www.lcsc.com/product-detail/C45783.html,0.1898,0.7592,25V X5R
+C16,47pF,Capacitor_SMD:C_0805_2012Metric,1,Samsung Electro-Mechanics,CL21C470JBANNNC,C14857,https://www.lcsc.com/product-detail/C14857.html,0.0102,0.0102,50V C0G
+"D1,D2,D3,D4,D5,D6",LED,LED_SMD:LED_0805_2012Metric,6,Foshan NationStar,NCD0805R1,C84256,https://www.lcsc.com/product-detail/C84256.html,0.0135,0.0810,Red 0805 LED
+FB1,30R/1.8A,Inductor_SMD:L_0805_2012Metric,1,Murata Electronics,BLM21PG300SN1D,C16903,https://www.lcsc.com/product-detail/C16903.html,0.0391,0.0391,30R @100MHz ferrite bead
+J1,Conn_01x02,Connector_JST_SM4:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,JST,S2B-PH-SM4-TB(LF)(SN),C295747,https://www.lcsc.com/product-detail/C295747.html,0.2269,0.2269,"Battery connector, exact footprint match"
+J2,SMA,Connector_Coaxial:SMA_Amphenol_901-143_Horizontal,1,BAT WIRELESS,BWSMA-KE-Z001,C496549,https://www.lcsc.com/product-detail/C496549.html,0.4052,0.4052,SUBSTITUTE: Amphenol 901-143 not stocked; verify 50R THT edge-mount footprint
+J3,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_901-143_Horizontal,1,BAT WIRELESS,BWSMA-KE-Z001,C496549,https://www.lcsc.com/product-detail/C496549.html,0.4052,0.4052,SUBSTITUTE: Amphenol 901-143 not stocked; verify 50R THT edge-mount footprint
+J4,USB_C_Receptacle_USB2.0_16P,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,Korean Hroparts Elec,TYPE-C-31-M-12,C165948,https://www.lcsc.com/product-detail/C165948.html,0.1874,0.1874,Exact footprint match
+J5,Conn_01x04,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,1,,,,,0.0000,0.0000,THT 2.54mm female socket - hand solder / not in SMT assembly
+L1,1uH XFL4020-102MEC,Inductor_SMD:L_Coilcraft_XxL4020,1,Coilcraft,XFL4020-102MEC,C5355380,https://www.lcsc.com/product-detail/C5355380.html,2.5770,2.5770,Shielded 1uH power inductor
+"Q1,Q2",AO3400A,Package_TO_SOT_SMD:SOT-23,2,Alpha & Omega Semicon,AO3400A,C20917,https://www.lcsc.com/product-detail/C20917.html,0.0891,0.1782,N-MOSFET 30V
+"R1,R2,R3,R5,R6,R10,R16",10k,Resistor_SMD:R_0805_2012Metric,7,UNI-ROYAL,0805W8F1002T5E,C17414,https://www.lcsc.com/product-detail/C17414.html,0.0034,0.0238,1%
+"R4,R7",2,Resistor_SMD:R_0805_2012Metric,2,FOJAN,FRC0805F2R00TS,C2933398,https://www.lcsc.com/product-detail/C2933398.html,0.0042,0.0084,2R 1%
+R8,390k,Resistor_SMD:R_0805_2012Metric,1,UNI-ROYAL,0805W8F3903T5E,C17656,https://www.lcsc.com/product-detail/C17656.html,0.0026,0.0026,1%
+R9,100k,Resistor_SMD:R_0805_2012Metric,1,UNI-ROYAL,0805W8F1003T5E,C149504,https://www.lcsc.com/product-detail/C149504.html,0.0060,0.0060,1%
+R11,10,Resistor_SMD:R_0805_2012Metric,1,UNI-ROYAL,0805W8F100JT5E,C17415,https://www.lcsc.com/product-detail/C17415.html,0.0040,0.0040,10R 1%
+"R12,R13",5.1k,Resistor_SMD:R_0805_2012Metric,2,UNI-ROYAL,0805W8F5101T5E,C27834,https://www.lcsc.com/product-detail/C27834.html,0.0055,0.0110,1%
+"R14,R15",22,Resistor_SMD:R_0805_2012Metric,2,UNI-ROYAL,0805W8F220JT5E,C17561,https://www.lcsc.com/product-detail/C17561.html,0.0046,0.0092,22R 1%
+"SW1,SW2,SW3",SW_Push,Button_Switch_SMD:Panasonic_EVQPUM_EVQPUD,3,Shenzhen Kinghelm Elec,KH-6X6X5H-STM,C2837531,https://www.lcsc.com/product-detail/C2837531.html,0.0189,0.0567,"SUBSTITUTE: Panasonic EVQPUM not stocked; 6x6mm 4-pin SMD tact switch, check boss/pin layout"
+TP1,TestPoint,TestPoint:TestPoint_Pad_D1.5mm,1,,,,,0.0000,0.0000,Bare pad - no part
+U1,IP5306,IP5306:SOP127P600X165-9N,1,INJOINIC,IP5306,C181692,https://www.lcsc.com/product-detail/C181692.html,0.3449,0.3449,"Power bank / charger IC, ESOP-8"
+"U2,U3",TLV75733PDBV,Package_TO_SOT_SMD:SOT-23-5,2,Texas Instruments,TLV75733PDBVR,C485517,https://www.lcsc.com/product-detail/C485517.html,0.2164,0.4328,3.3V 1A LDO
+U4,NEO-M9N,RF_GPS:ublox_NEO,1,u-blox,NEO-M9N-00B,C5119087,https://www.lcsc.com/product-detail/C5119087.html,16.4266,16.4266,GNSS module
+U5,E22-900M30S,E22-900M30S:XCVR_E22-900M30S,1,Chengdu Ebyte,E22-900M30S,C411294,https://www.lcsc.com/product-detail/C411294.html,7.2537,7.2537,LoRa 868/915MHz 30dBm module
+U6,ESP32-S3-WROOM-1,RF_Module:ESP32-S3-WROOM-1U,1,Espressif Systems,ESP32-S3-WROOM-1U-N16R8,C3013946,https://www.lcsc.com/product-detail/C3013946.html,5.1918,5.1918,"1U variant (external antenna), 16MB flash / 8MB PSRAM"
+U7,USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,1,STMicroelectronics,USBLC6-2SC6,C7519,https://www.lcsc.com/product-detail/C7519.html,0.1801,0.1801,USB ESD protection
+U8,DS3231M,Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm,1,Analog Devices,DS3231M+TRL,C37663,https://www.lcsc.com/product-detail/C37663.html,8.5397,8.5397,RTC
+
+,,,68,,,,,,44.03,TOTAL (parts cost @ qty shown)
