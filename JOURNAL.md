@@ -340,3 +340,23 @@ created_at: 2026-02-28
 ![Message received](proof/V2/image/screenshot_receivemessage.png)
 
 **Total time spent: 1 hour**
+
+---
+
+# October 31: V2 Second Unit - Build Start
+
+## What I did
+
+- Started building a second V2 board from the spare PCBs in the October batch.
+- Same BOM as the first unit, minus two parts: the RTC and the GPS are not fitted on this one.
+- Build is not finished yet.
+
+## Why
+
+- Wanted a second working unit. Leaving the RTC and GPS off for now so I can bring up the core (power, ESP32, radio) on its own and fit those two later if I need them.
+
+## Screenshots
+
+![Board working](proof/V2/image/radio_working.jpg)
+
+**Total time spent: 2 hour**
